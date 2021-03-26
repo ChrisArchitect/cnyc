@@ -1,3 +1,6 @@
+---
+layout: plaintext
+---
 "Hackers" Movie Script
 Typed by Lo Wang
 

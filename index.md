@@ -1,3 +1,3 @@
 ---
-title: Cyberdelia NYC
+layout: home
 ---

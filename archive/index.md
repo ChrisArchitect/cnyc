@@ -1,6 +1,5 @@
 ---
 layout: default
-permalink: /archive/
 ---
 
 {%-include back_link.html-%}

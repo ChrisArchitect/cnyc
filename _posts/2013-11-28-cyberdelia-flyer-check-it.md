@@ -8,7 +8,7 @@ tags:
 - hackers
 - flyer
 - phantom phreak
-tumblr_url: https://cyberdelianyc.tumblr.com/post/80844578269/cyberdelia-flyer-check-it
+redirect_from: /post/80844578269/cyberdelia-flyer-check-it
 ---
  ![](/images/tumblr_n32rd3GB9k1tqzrm7o1_1280.jpg)  
 

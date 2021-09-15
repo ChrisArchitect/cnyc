@@ -1,2 +1,5 @@
 title: Cyberdelia NYC
 permalink: /posts/:categories/:title
+
+plugins:
+  - jekyll-redirect-from

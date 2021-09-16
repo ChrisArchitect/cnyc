@@ -6,6 +6,7 @@ tags:
 - hackers film
 - dade murphy
 - anniversary
+image: /images/hackers-snap-0434-dade-mom-taking-over-tv-network.jpg
 ---
 # 26 years ago today
 

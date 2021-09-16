@@ -13,7 +13,7 @@ tags:
 - new york
 - nyc
 - orbital
-tumblr_url: https://cyberdelianyc.tumblr.com/post/129148338330/hackers-movie-20-year-anniversary-opening-dade-flying-ny
+redirect_from: /post/129148338330/hackers-movie-20-year-anniversary-opening-dade-flying-ny
 ---
  ![](/images/tumblr_nuq40x0VXk1tqzrm7o1_1280.jpg)  
 

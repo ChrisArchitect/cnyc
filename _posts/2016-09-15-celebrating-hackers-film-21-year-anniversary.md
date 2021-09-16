@@ -13,7 +13,7 @@ tags:
 - crash override
 - joey
 - Lord Nikon
-tumblr_url: https://cyberdelianyc.tumblr.com/post/150448178920/celebrating-hackers-film-21-year-anniversary
+redirect_from: /post/150448178920/celebrating-hackers-film-21-year-anniversary
 ---
  ![](/images/tumblr_odjwy2ZUDM1tqzrm7o1_500.gif)  
 

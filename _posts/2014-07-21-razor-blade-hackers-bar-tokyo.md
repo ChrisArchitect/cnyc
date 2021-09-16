@@ -8,7 +8,7 @@ tags:
 - tokyo
 - bar
 - hackers bar
-tumblr_url: https://cyberdelianyc.tumblr.com/post/92444979355/razor-blade-hackers-bar-tokyo
+redirect_from: /post/92444979355/razor-blade-hackers-bar-tokyo
 ---
  ![](/images/tumblr_n92o83LqSE1tqzrm7o1_1280.jpg)  
 

@@ -8,7 +8,7 @@ tags:
 - hackers
 - germany
 - food and drink
-tumblr_url: https://cyberdelianyc.tumblr.com/post/85526782875/now-serving-club-mate-hacker-drink-germany-global
+redirect_from: /post/85526782875/now-serving-club-mate-hacker-drink-germany-global
 ---
  ![](/images/tumblr_n5gtrc3ltY1tqzrm7o1_1280.jpg)  
 

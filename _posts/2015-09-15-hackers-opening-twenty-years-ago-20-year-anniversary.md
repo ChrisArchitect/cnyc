@@ -10,7 +10,7 @@ tags:
 - dade murphy
 - crash override
 - new york
-tumblr_url: https://cyberdelianyc.tumblr.com/post/129148202605/hackers-opening-twenty-years-ago-20-year-anniversary
+redirect_from: /post/129148202605/hackers-opening-twenty-years-ago-20-year-anniversary
 ---
  ![](/images/tumblr_nuq3vyEefh1tqzrm7o1_1280.jpg)  
 

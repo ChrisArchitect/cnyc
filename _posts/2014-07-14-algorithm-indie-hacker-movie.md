@@ -7,7 +7,7 @@ tags:
 - algorithm
 - movie
 - indie
-tumblr_url: https://cyberdelianyc.tumblr.com/post/91775415345/algorithm-indie-hacker-movie
+redirect_from: /post/91775415345/algorithm-indie-hacker-movie
 ---
  ![](/images/tumblr_n8pyifLnwN1tqzrm7o1_1280.jpg)  
 

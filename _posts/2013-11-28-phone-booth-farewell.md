@@ -6,7 +6,7 @@ tags:
 - phreak
 - payphone
 - phone booth
-tumblr_url: https://cyberdelianyc.tumblr.com/post/80785901102/phone-booth-farewell
+redirect_from: /post/80785901102/phone-booth-farewell
 ---
 [Phone booth farewell](http://www.thestar.com/news/gta/2013/11/28/phone_booth_farewell_in_a_wireless_world_the_iconic_street_box_is_disappearing.html?utm_source=twitterfeed&utm_medium=twitter)  
 

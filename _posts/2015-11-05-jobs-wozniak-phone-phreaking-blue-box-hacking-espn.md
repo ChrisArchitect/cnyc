@@ -8,7 +8,7 @@ tags:
 - hackers
 - hacking
 - hack the planet
-tumblr_url: https://cyberdelianyc.tumblr.com/post/132610166765/jobs-wozniak-phone-phreaking-blue-box-hacking-espn
+redirect_from: /post/132610166765/jobs-wozniak-phone-phreaking-blue-box-hacking-espn
 ---
   
 

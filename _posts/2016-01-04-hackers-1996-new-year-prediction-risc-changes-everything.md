@@ -15,7 +15,7 @@ tags:
 - crash override
 - hack the planet
 - RISC
-tumblr_url: https://cyberdelianyc.tumblr.com/post/136626479310/hackers-1996-new-year-prediction-risc-changes-everything
+redirect_from: /post/136626479310/hackers-1996-new-year-prediction-risc-changes-everything
 ---
  ![](/images/tumblr_o0g3tqIbrU1tqzrm7o1_1280.jpg)  
 

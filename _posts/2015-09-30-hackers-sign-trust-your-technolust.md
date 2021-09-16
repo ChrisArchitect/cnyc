@@ -14,7 +14,7 @@ tags:
 - stickers
 - laptop sticker
 - cyberdelia
-tumblr_url: https://cyberdelianyc.tumblr.com/post/130241287205/hackers-sign-trust-your-technolust
+redirect_from: /post/130241287205/hackers-sign-trust-your-technolust
 ---
  ![](/images/tumblr_nvirllf8nN1tqzrm7o1_1280.jpg)  
 

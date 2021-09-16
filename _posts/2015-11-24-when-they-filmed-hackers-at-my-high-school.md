@@ -12,7 +12,7 @@ tags:
 - jonny lee miller
 - angelina jolie
 - stuyvesant
-tumblr_url: https://cyberdelianyc.tumblr.com/post/133861163055/when-they-filmed-hackers-at-my-high-school
+redirect_from: /post/133861163055/when-they-filmed-hackers-at-my-high-school
 ---
 [What It Was Like When They Filmed Hackers At My High School](http://www.fastcompany.com/3052994/1995-the-year-they-filmed-hackers-at-my-high-school)  
 

@@ -9,7 +9,7 @@ tags:
 - the plague
 - vr helmet
 - hackers movie
-tumblr_url: https://cyberdelianyc.tumblr.com/post/80738876559/facebook-oculus-vr-helmet-plague-hackers-movie
+redirect_from: /post/80738876559/facebook-oculus-vr-helmet-plague-hackers-movie
 ---
  ![](/images/tumblr_n30ub73WRa1tqzrm7o1_1280.jpg)  
 

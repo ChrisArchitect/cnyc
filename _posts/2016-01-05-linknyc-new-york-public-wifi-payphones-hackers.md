@@ -15,7 +15,7 @@ tags:
 - free wifi
 - cereal killer
 - acid burn
-tumblr_url: https://cyberdelianyc.tumblr.com/post/136677244695/linknyc-new-york-public-wifi-payphones-hackers
+redirect_from: /post/136677244695/linknyc-new-york-public-wifi-payphones-hackers
 ---
  ![](/images/tumblr_o0hg3ivWg51tqzrm7o1_540.gif)  
 

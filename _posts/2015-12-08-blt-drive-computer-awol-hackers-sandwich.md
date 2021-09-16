@@ -9,7 +9,7 @@ tags:
 - blt sandwich
 - blt
 - it's a unix system
-tumblr_url: https://cyberdelianyc.tumblr.com/post/134789340355/blt-drive-computer-awol-hackers-sandwich
+redirect_from: /post/134789340355/blt-drive-computer-awol-hackers-sandwich
 ---
  ![](/images/tumblr_nz1jt4CN2N1tqzrm7o1_1280.jpg)  
 

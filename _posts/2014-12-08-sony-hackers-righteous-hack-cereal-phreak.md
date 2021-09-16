@@ -11,7 +11,7 @@ tags:
 - north korea
 - cereal killer
 - Phantom Phreak
-tumblr_url: https://cyberdelianyc.tumblr.com/post/104696977380/sony-hackers-righteous-hack-cereal-phreak
+redirect_from: /post/104696977380/sony-hackers-righteous-hack-cereal-phreak
 ---
  ![](/images/tumblr_nga75rNshk1tqzrm7o1_1280.jpg)  
 

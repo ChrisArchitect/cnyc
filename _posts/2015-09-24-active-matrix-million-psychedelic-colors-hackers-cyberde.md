@@ -15,7 +15,7 @@ tags:
 - hack the planet
 - sticker
 - laptop sticker
-tumblr_url: https://cyberdelianyc.tumblr.com/post/129819920825/active-matrix-million-psychedelic-colors-hackers-cyberde
+redirect_from: /post/129819920825/active-matrix-million-psychedelic-colors-hackers-cyberde
 ---
  ![](/images/tumblr_nv7o70elnF1tqzrm7o1_1280.jpg)  
 

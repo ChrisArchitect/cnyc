@@ -13,7 +13,7 @@ tags:
 - cereal killer
 - hackers gotta hack
 - hackers gonna hack
-tumblr_url: https://cyberdelianyc.tumblr.com/post/81038441668/tag-youre-in-hackers-worm-session-dade-nikon
+redirect_from: /post/81038441668/tag-youre-in-hackers-worm-session-dade-nikon
 ---
  ![](/images/tumblr_n36h84PUW71tqzrm7o1_500.gif)  
 

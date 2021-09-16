@@ -12,7 +12,7 @@ tags:
 - cia hacking
 - hacking
 - hack the planet
-tumblr_url: https://cyberdelianyc.tumblr.com/post/131628279720/hackers-cia-email-hacked-dade-hacks-tv-station
+redirect_from: /post/131628279720/hackers-cia-email-hacked-dade-hacks-tv-station
 ---
  ![](/images/tumblr_nwky4jEKhz1tqzrm7o1_1280.jpg)  
 

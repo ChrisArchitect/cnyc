@@ -16,7 +16,7 @@ tags:
 - acid burn
 - high school hacking
 - hacking
-tumblr_url: https://cyberdelianyc.tumblr.com/post/138498604725/bill-gates-hacking-his-way-into-girls-classes-dade-hacke
+redirect_from: /post/138498604725/bill-gates-hacking-his-way-into-girls-classes-dade-hacke
 ---
  ![](/images/tumblr_o1vzsxsm541tqzrm7o1_1280.jpg)  
 

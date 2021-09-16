@@ -10,7 +10,7 @@ tags:
 - graffiti
 - street art
 - parkdale
-tumblr_url: https://cyberdelianyc.tumblr.com/post/132684210820/toronto-street-art-payphones-useful-free-numbers
+redirect_from: /post/132684210820/toronto-street-art-payphones-useful-free-numbers
 ---
  ![](/images/tumblr_nxew3hFx4D1tqzrm7o1_1280.jpg)  
  ![](/images/tumblr_nxew3hFx4D1tqzrm7o2_1280.jpg)  

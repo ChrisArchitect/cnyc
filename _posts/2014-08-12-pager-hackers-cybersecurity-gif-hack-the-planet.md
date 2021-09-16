@@ -13,7 +13,7 @@ tags:
 - pager
 - hack the planet
 - grand central
-tumblr_url: https://cyberdelianyc.tumblr.com/post/94534747520/pager-hackers-cybersecurity-gif-hack-the-planet
+redirect_from: /post/94534747520/pager-hackers-cybersecurity-gif-hack-the-planet
 ---
  ![](/images/tumblr_na76idrGOP1tqzrm7o1_400.gif)  
 

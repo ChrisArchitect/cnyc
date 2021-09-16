@@ -8,7 +8,7 @@ tags:
 - nsa
 - crayola books
 - rainbow series
-tumblr_url: https://cyberdelianyc.tumblr.com/post/81546877377/red-crayola-rainbow-series-book-hackers
+redirect_from: /post/81546877377/red-crayola-rainbow-series-book-hackers
 ---
  ![](/images/tumblr_n3fnsaogm61tqzrm7o1_1280.jpg)  
 

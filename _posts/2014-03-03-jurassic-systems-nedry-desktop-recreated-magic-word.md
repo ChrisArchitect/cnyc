@@ -6,7 +6,7 @@ tags:
 - jurassic park
 - dennis nedry
 - its a unix system
-tumblr_url: https://cyberdelianyc.tumblr.com/post/80783266364/jurassic-systems-nedry-desktop-recreated-magic-word
+redirect_from: /post/80783266364/jurassic-systems-nedry-desktop-recreated-magic-word
 ---
 > You didn’t say the magic word!
 

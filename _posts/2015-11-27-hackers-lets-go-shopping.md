@@ -16,7 +16,7 @@ tags:
 - black friday
 - cyber monday
 - cybermonday
-tumblr_url: https://cyberdelianyc.tumblr.com/post/134062066520/hackers-lets-go-shopping
+redirect_from: /post/134062066520/hackers-lets-go-shopping
 ---
  ![](/images/tumblr_nyhdmorPDD1tqzrm7o1_1280.jpg)  
 

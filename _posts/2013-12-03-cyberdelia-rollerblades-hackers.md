@@ -6,7 +6,7 @@ tags:
 - hackers movie
 - rollerblades
 - cyberdelia
-tumblr_url: https://cyberdelianyc.tumblr.com/post/80785765111/cyberdelia-rollerblades-hackers
+redirect_from: /post/80785765111/cyberdelia-rollerblades-hackers
 ---
  ![](/images/tumblr_n31x7gXwy81tqzrm7o1_640.jpg)  
 

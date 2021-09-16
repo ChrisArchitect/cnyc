@@ -6,7 +6,7 @@ tags:
 - virus
 - hackers
 - hackers movie
-tumblr_url: https://cyberdelianyc.tumblr.com/post/80783435629/hackers-virus-type-cookie-monster
+redirect_from: /post/80783435629/hackers-virus-type-cookie-monster
 ---
  ![](/images/tumblr_n31vmwILtg1tqzrm7o1_1280.jpg)  
 

@@ -8,7 +8,7 @@ tags:
 - hackers
 - hackers movie
 - emmanuel goldstein
-tumblr_url: https://cyberdelianyc.tumblr.com/post/80844290089/emmanuel-goldstein-this-isnt-wood-shop-hackers
+redirect_from: /post/80844290089/emmanuel-goldstein-this-isnt-wood-shop-hackers
 ---
  ![](/images/tumblr_n32r7wBAPc1tqzrm7o1_1280.jpg)  
 

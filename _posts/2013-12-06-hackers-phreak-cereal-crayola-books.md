@@ -9,7 +9,7 @@ tags:
 - hackers movie
 - crayola books
 - rainbow series
-tumblr_url: https://cyberdelianyc.tumblr.com/post/81544270405/hackers-phreak-cereal-crayola-books
+redirect_from: /post/81544270405/hackers-phreak-cereal-crayola-books
 ---
 > Did you bring those Crayola books?”  
 > “Oh yeah… ~technicolor rainbow~…

@@ -13,6 +13,6 @@ tags:
 - public wifi
 - payphone
 - new york city
-tumblr_url: https://cyberdelianyc.tumblr.com/post/137057000335/linknyc-public-wifi-terminal-in-the-wild-give-me-liberty
+redirect_from: /post/137057000335/linknyc-public-wifi-terminal-in-the-wild-give-me-liberty
 ---
  ![](/images/tumblr_o0rmtxaL111tqzrm7o1_1280.jpg)  

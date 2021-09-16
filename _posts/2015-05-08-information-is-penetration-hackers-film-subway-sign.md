@@ -9,7 +9,7 @@ tags:
 - acid burn
 - subway
 - kate libby
-tumblr_url: https://cyberdelianyc.tumblr.com/post/118455709178/information-is-penetration-hackers-film-subway-sign
+redirect_from: /post/118455709178/information-is-penetration-hackers-film-subway-sign
 ---
  ![](/images/tumblr_no1i1qZMKo1tqzrm7o1_1280.jpg)  
 

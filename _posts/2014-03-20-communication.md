@@ -6,7 +6,7 @@ tags:
 - payphone
 - technology
 - photography
-tumblr_url: https://cyberdelianyc.tumblr.com/post/80738578374/communication
+redirect_from: /post/80738578374/communication
 ---
  ![](/images/tumblr_n30u644gdP1tqzrm7o1_1280.jpg)  
 

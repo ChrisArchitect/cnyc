@@ -9,7 +9,7 @@ tags:
 - atm
 - bank of montreal
 - bmo
-tumblr_url: https://cyberdelianyc.tumblr.com/post/88298653315/teens-hack-winnipeg-bmo-atm-admin-password
+redirect_from: /post/88298653315/teens-hack-winnipeg-bmo-atm-admin-password
 ---
  ![](/images/tumblr_n6x2d8VzzP1tqzrm7o1_1280.jpg)  
 

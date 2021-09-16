@@ -7,7 +7,7 @@ tags:
 - at&t
 - state lines
 - court
-tumblr_url: https://cyberdelianyc.tumblr.com/post/82399945132/http-att-hacker-conviction-overturned-dont-hack-across-s
+redirect_from: /post/82399945132/http-att-hacker-conviction-overturned-dont-hack-across-s
 ---
 [Appeals Court Overturns Conviction of AT&T Hacker](http://www.wired.com/2014/04/att-hacker-conviction-vacated/)  
 

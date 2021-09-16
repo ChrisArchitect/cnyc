@@ -11,7 +11,7 @@ tags:
 - Phantom Phreak
 - crash override
 - hack the planet
-tumblr_url: https://cyberdelianyc.tumblr.com/post/135906797931/hackers-computer-for-christmas
+redirect_from: /post/135906797931/hackers-computer-for-christmas
 ---
  ![](/images/tumblr_n31wefIvew1tqzrm7o1_1280.jpg)  
 

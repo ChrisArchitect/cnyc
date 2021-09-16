@@ -9,7 +9,7 @@ tags:
 - hack the planet
 - hack the gibson
 - the gibson
-tumblr_url: https://cyberdelianyc.tumblr.com/post/84947689230/hollywood-hackers-ranked-on-ability-to-hack-the-gibson
+redirect_from: /post/84947689230/hollywood-hackers-ranked-on-ability-to-hack-the-gibson
 ---
 [Hollywood Hackers Ranked on Ability to 'Hack the Gibson'](http://sdt.bz/content/article.aspx?ArticleID=70168&page=1&utm_content=bufferde24f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)  
 

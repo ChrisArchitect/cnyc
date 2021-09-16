@@ -13,7 +13,7 @@ tags:
 - computer chip
 - motherboard
 - wired
-tumblr_url: https://cyberdelianyc.tumblr.com/post/149140621965/computer-chip-city-hackers-opening-titles-gif
+redirect_from: /post/149140621965/computer-chip-city-hackers-opening-titles-gif
 ---
  ![](/images/tumblr_oc4fs0E8st1tqzrm7o1_400.gif)  
 

@@ -6,7 +6,7 @@ tags:
 - hackers movie
 - lantastic
 - code
-tumblr_url: https://cyberdelianyc.tumblr.com/post/80783626537/hackers-moviecode-screen-lantastic
+redirect_from: /post/80783626537/hackers-moviecode-screen-lantastic
 ---
  ![](/images/tumblr_n31vrowTv11tqzrm7o1_1280.png)  
 

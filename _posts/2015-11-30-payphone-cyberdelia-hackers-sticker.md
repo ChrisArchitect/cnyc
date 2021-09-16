@@ -12,7 +12,7 @@ tags:
 - laptop sticker
 - stickers
 - hackers20
-tumblr_url: https://cyberdelianyc.tumblr.com/post/134278468470/payphone-cyberdelia-hackers-sticker
+redirect_from: /post/134278468470/payphone-cyberdelia-hackers-sticker
 ---
  ![](/images/tumblr_nyn4r6vr0m1tqzrm7o1_1280.jpg)  
 

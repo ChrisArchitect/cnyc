@@ -7,7 +7,7 @@ tags:
 - phone
 - bell tech journal
 - bell
-tumblr_url: https://cyberdelianyc.tumblr.com/post/102013885995/bell-system-technical-journal-1978-unix-introduction
+redirect_from: /post/102013885995/bell-system-technical-journal-1978-unix-introduction
 ---
  ![](/images/tumblr_neof3mfayF1tqzrm7o1_1280.jpg)  
 

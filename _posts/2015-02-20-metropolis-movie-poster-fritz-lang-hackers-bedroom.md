@@ -15,7 +15,7 @@ tags:
 - fritz lang
 - sci-fi
 - crash override
-tumblr_url: https://cyberdelianyc.tumblr.com/post/111539464885/metropolis-movie-poster-fritz-lang-hackers-bedroom
+redirect_from: /post/111539464885/metropolis-movie-poster-fritz-lang-hackers-bedroom
 ---
  ![](/images/tumblr_nk2287Jucl1tqzrm7o1_1280.jpg)  
  ![](/images/tumblr_nk2287Jucl1tqzrm7o2_1280.jpg)  

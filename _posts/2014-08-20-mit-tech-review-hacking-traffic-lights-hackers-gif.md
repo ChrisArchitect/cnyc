@@ -14,7 +14,7 @@ tags:
 - hackers movie
 - gif
 - animated gif
-tumblr_url: https://cyberdelianyc.tumblr.com/post/95287751590/mit-tech-review-hacking-traffic-lights-hackers-gif
+redirect_from: /post/95287751590/mit-tech-review-hacking-traffic-lights-hackers-gif
 ---
  ![](/images/tumblr_nam3z1Gdl11tqzrm7o1_500.gif)  
 

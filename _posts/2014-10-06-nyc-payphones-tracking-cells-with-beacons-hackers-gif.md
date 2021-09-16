@@ -10,7 +10,7 @@ tags:
 - gif
 - animated gif
 - nyc
-tumblr_url: https://cyberdelianyc.tumblr.com/post/99323943990/nyc-payphones-tracking-cells-with-beacons-hackers-gif
+redirect_from: /post/99323943990/nyc-payphones-tracking-cells-with-beacons-hackers-gif
 ---
 **![hackers-empty-payphone-bank-grand-central](http://i.imgur.com/dywBxAe.gif)**
 

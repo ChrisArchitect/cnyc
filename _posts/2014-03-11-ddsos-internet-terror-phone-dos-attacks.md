@@ -5,7 +5,7 @@ date: '2014-03-11T09:16:00-04:00'
 tags:
 - telephone
 - dos attack
-tumblr_url: https://cyberdelianyc.tumblr.com/post/80782434389/ddsos-internet-terror-phone-dos-attacks
+redirect_from: /post/80782434389/ddsos-internet-terror-phone-dos-attacks
 ---
 [DDSOS](http://ddsos.technology/)  
 

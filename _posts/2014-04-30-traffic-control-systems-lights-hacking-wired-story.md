@@ -10,7 +10,7 @@ tags:
 - hacking
 - rollerblades
 - traffic sensors
-tumblr_url: https://cyberdelianyc.tumblr.com/post/84337713920/traffic-control-systems-lights-hacking-wired-story
+redirect_from: /post/84337713920/traffic-control-systems-lights-hacking-wired-story
 ---
  ![](/images/tumblr_n4uvcbm4e81tqzrm7o1_1280.jpg)  
 

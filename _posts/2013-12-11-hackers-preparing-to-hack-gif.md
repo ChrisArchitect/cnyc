@@ -6,7 +6,7 @@ tags:
 - hackers movie
 - floppy disk
 - gif
-tumblr_url: https://cyberdelianyc.tumblr.com/post/80785052837/hackers-preparing-to-hack-gif
+redirect_from: /post/80785052837/hackers-preparing-to-hack-gif
 ---
  ![](/images/tumblr_n31wq4Dqmg1tqzrm7o1_400.gif)  
 

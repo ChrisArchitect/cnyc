@@ -21,7 +21,7 @@ tags:
 - phantom phreak
 - hacking
 - cereal killer
-tumblr_url: https://cyberdelianyc.tumblr.com/post/134286552335/hackers-movie-oral-history-interview-transcript-how-did
+redirect_from: /post/134286552335/hackers-movie-oral-history-interview-transcript-how-did
 ---
 [Hackers Oral History: How Did This Get Made](http://www.slashfilm.com/hackers-oral-history/)  
 

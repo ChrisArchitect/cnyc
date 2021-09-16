@@ -7,7 +7,7 @@ tags:
 - hackers
 - phreaking
 - phone
-tumblr_url: https://cyberdelianyc.tumblr.com/post/94549893942/trick-telemarketer-reset-phone-old-school-phreaking
+redirect_from: /post/94549893942/trick-telemarketer-reset-phone-old-school-phreaking
 ---
  ![](/images/tumblr_na76syPlsR1tqzrm7o1_540.png)  
 

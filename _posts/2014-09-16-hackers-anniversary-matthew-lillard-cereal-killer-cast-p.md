@@ -12,7 +12,7 @@ tags:
 - anniversay
 - '1995'
 - iain softley
-tumblr_url: https://cyberdelianyc.tumblr.com/post/97690029200/hackers-anniversary-matthew-lillard-cereal-killer-cast-p
+redirect_from: /post/97690029200/hackers-anniversary-matthew-lillard-cereal-killer-cast-p
 ---
  ![](/images/tumblr_nc0rugmavH1tqzrm7o1_1280.jpg)  
 

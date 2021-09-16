@@ -6,7 +6,7 @@ tags:
 - chicago
 - hackers
 - broadcast signal intrusion
-tumblr_url: https://cyberdelianyc.tumblr.com/post/80784726109/broadcast-signal-intrusion-hack-headroom
+redirect_from: /post/80784726109/broadcast-signal-intrusion-hack-headroom
 ---
 [Broadcast Signal Intrusion hacks](http://motherboard.vice.com/blog/headroom-hacker?src=longreads)  
 

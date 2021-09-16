@@ -10,7 +10,7 @@ tags:
 - razor
 - blade
 - razor and blade
-tumblr_url: https://cyberdelianyc.tumblr.com/post/80785249482/jolt-cola-hackers-razor-blade
+redirect_from: /post/80785249482/jolt-cola-hackers-razor-blade
 ---
  ![](/images/tumblr_n31wv26HXr1tqzrm7o1_500.jpg)  
 

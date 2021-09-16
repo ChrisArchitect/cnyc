@@ -7,7 +7,7 @@ tags:
 - cyberdelia
 - hackers movie
 - hackers film
-tumblr_url: https://cyberdelianyc.tumblr.com/post/150448262785/hackers-21-year-cyberdelia-7th-hacker-background
+redirect_from: /post/150448262785/hackers-21-year-cyberdelia-7th-hacker-background
 ---
 [the 7th hacker](https://medium.com/@billautomata/the-7th-hacker-6ce1eee46080#.1lwj3ta4z)  
 

@@ -14,7 +14,7 @@ tags:
 - hack the gibson
 - hack the planet
 - hackers movie
-tumblr_url: https://cyberdelianyc.tumblr.com/post/103324505565/feminist-hacker-barbie-hack-gibson-lord-nikon-cereal-kil
+redirect_from: /post/103324505565/feminist-hacker-barbie-hack-gibson-lord-nikon-cereal-kil
 ---
  ![](/images/tumblr_nfgv5aXLPw1tqzrm7o1_640.png)  
 

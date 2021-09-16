@@ -12,7 +12,7 @@ tags:
 - manual
 - animated gif
 - gif
-tumblr_url: https://cyberdelianyc.tumblr.com/post/102054886420/phone-truck-manual-cereal-nikon-hackers-gif
+redirect_from: /post/102054886420/phone-truck-manual-cereal-nikon-hackers-gif
 ---
 ![](http://i.giphy.com/tyttpGTQOD67tO3lGlW.gif)
 

@@ -10,7 +10,7 @@ tags:
 - hackers
 - lord nikon
 - quotes
-tumblr_url: https://cyberdelianyc.tumblr.com/post/104901670325/hackers-nikon-make-some-coffee-keurig-pod-hack
+redirect_from: /post/104901670325/hackers-nikon-make-some-coffee-keurig-pod-hack
 ---
 > This is taking forever and a day to figure out. I’m gonna make some coffee.
 

@@ -8,7 +8,7 @@ tags:
 - hackers
 - dod
 - hackers movie
-tumblr_url: https://cyberdelianyc.tumblr.com/post/81545821729/hackers-crayola-orange-rainbow-series-dod-security
+redirect_from: /post/81545821729/hackers-crayola-orange-rainbow-series-dod-security
 ---
  ![](/images/tumblr_n3fn9yNRDH1tqzrm7o1_1280.jpg)  
  ![](/images/tumblr_n3fn9yNRDH1tqzrm7o2_500.png)  

@@ -10,7 +10,7 @@ tags:
 - hackers
 - oculuse3
 - oculus rift
-tumblr_url: https://cyberdelianyc.tumblr.com/post/121283532320/plague-vr-helmet-hackers-oculus-rift
+redirect_from: /post/121283532320/plague-vr-helmet-hackers-oculus-rift
 ---
  ![](/images/tumblr_npsjgonfRO1tqzrm7o1_1280.jpg)  
 

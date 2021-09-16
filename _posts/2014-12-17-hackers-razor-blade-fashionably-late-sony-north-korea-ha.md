@@ -10,7 +10,7 @@ tags:
 - razor and blade
 - hackers movie
 - quotes
-tumblr_url: https://cyberdelianyc.tumblr.com/post/105492314360/hackers-razor-blade-fashionably-late-sony-north-korea-ha
+redirect_from: /post/105492314360/hackers-razor-blade-fashionably-late-sony-north-korea-ha
 ---
  ![](/images/tumblr_ngrd0ch9tR1tqzrm7o1_1280.jpg)  
 

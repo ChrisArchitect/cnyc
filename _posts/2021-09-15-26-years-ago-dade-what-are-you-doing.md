@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 26 years ago
+title: Dade? What are you doing?
 tags:
 - hackers movie
 - hackers film
@@ -14,5 +14,7 @@ tags:
 
 > "Dade?"  
 "Yeah, mom?"  
-"What are you doing?"  
-😎...
+"What are you doing?" 
+
+
+😎

@@ -34,6 +34,14 @@
   }
   
   .post-meta { text-align: right; }
+
+  .post-meta time {
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+    text-shadow: -1px 1px 0 #cc3366, 1px 1px 0 #cc3366, 1px -1px 0 #cc3366, -1px -1px 0 #cc3366;
+    color: white;
+    font-size: 1.78rem;
+  }
   
   h2, h3, h4, h5, h6 { margin-top: 3rem; }
   
@@ -46,6 +54,7 @@
   *:target { background: yellow; }
   
   .w {
+    background: white;
     max-width: 640px;
     margin: 0 auto;
     padding: 4rem 2rem;

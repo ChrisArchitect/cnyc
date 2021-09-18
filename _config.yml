@@ -26,6 +26,7 @@ logo: "hackers_0546-cyberdeliaflyer-white-544x544-circle.png"
 # goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
 
 paginate: 2
+paginate_path: /page-:num/
 
 remote_theme: riggraz/no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
 

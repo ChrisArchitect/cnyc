@@ -45,7 +45,7 @@
   
   h2, h3, h4, h5, h6 { margin-top: 3rem; }
   
-  hr { margin: 2rem 0; }
+  hr { margin: 2rem 0 !important; }
   
   p { margin: 1rem 0; }
   
@@ -61,11 +61,11 @@
   }
   
   hr {
-    text-align: center;
-    border: 0;
+    text-align: center !important;
+    border: 0 !important;
   
-    &:before { content: '/////' }
-    &:after { content: attr(data-content) '/////' }
+    &:before { content: '/////' !important }
+    &:after { content: attr(data-content) '/////' !important }
   }
   
   table { width: 100%; }

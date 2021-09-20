@@ -4,37 +4,36 @@ layout: home
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
 <div class="row justify-content-md-center">
-  <div class="col-1"></div>
+  <div class="col-1 offset-md-7">
+    <div class="post-meta text-end text-md-start">
+      <h4><a href="{{ post.url }}">#</a></h4>
+    </div>
+  </div>
   <article class="col-md-6">
     <div class="post-meta"></div>
 
     {{ post.content }}
     <hr>
   </article>
-  <div class="col-1">
-    <div class="post-meta text-end text-md-start">
-      <h4><a href="{{ post.url }}">#</a></h4>
-    </div>
-  </div>
 </div>
 
 {% endfor %}
 
 <!-- Pagination links -->
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">
-      Previous
-    </a>
-  {% else %}
-    <span class="previous">Previous</span>
-  {% endif %}
-  <span class="page_number ">
-    Page: {{ paginator.page }} of {{ paginator.total_pages }}
-  </span>
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-  {% else %}
-    <span class="next ">Next</span>
-  {% endif %}
+<div class="row jusitfy-content-md center pagination">
+  <div class="col-md-auto">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+    {% else %}
+      <span class="previous">Previous</span>
+    {% endif %}
+    <span class="page_number "> (Page: {{ paginator.page }} of {{ paginator.total_pages }}) </span>
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+    {% else %}
+      <span class="next">Next</span>
+    {% endif %}
+  </div>
 </div>
+
+{%- include foot.html -%}

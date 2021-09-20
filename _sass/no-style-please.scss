@@ -64,8 +64,8 @@
     text-align: center !important;
     border: 0 !important;
   
-    &:before { content: '/////' !important }
-    &:after { content: attr(data-content) '/////' !important }
+    &:before { content: '/////' }
+    &:after { content: attr(data-content) '/////' }
   }
   
   table { width: 100%; }

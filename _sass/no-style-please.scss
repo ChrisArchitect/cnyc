@@ -60,6 +60,10 @@
     padding: 4rem 2rem;
   }
   
+  hr:not([size]) {
+    height:inherit !important;
+  }
+
   hr {
     background-color:transparent !important;
     opacity: 1 !important; 

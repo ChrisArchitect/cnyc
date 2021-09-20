@@ -3,13 +3,20 @@ layout: home
 ---
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
-  <article>
-    <div class="post-meta"><h4><a href="{{ post.url }}">#</a></h4></div>
+<div class="row justify-content-md-center">
+  <div class="col-1"></div>
+  <article class="col-md-6">
+    <div class="post-meta"></div>
 
     {{ post.content }}
   </article>
-
-<hr>
+  <div class="col-1">
+    <div class="post-meta text-end text-md-start">
+      <h4><a href="{{ post.url }}">#</a></h4>
+    </div>
+  </div>
+  <hr>
+</div>
 
 {% endfor %}
 

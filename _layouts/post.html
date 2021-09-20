@@ -6,12 +6,12 @@ layout: default
 </header>
 {%-include back_link.html-%}
 
-<div class="row">
-  <div class="col"></div>
+<div class="row justify-content-md-center">
+  <div class="col-1"></div>
   <article class="col-md-6">
     {{ content }}
   </article>
-  <div class="col">
+  <div class="col-1">
     <p class="post-meta text-end text-md-start">
       <time datetime="{{ page.date }}">{{ page.date | date: site.theme_config.date_format }}</time>
     </p>

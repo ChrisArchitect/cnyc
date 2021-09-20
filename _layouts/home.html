@@ -2,7 +2,7 @@
 layout: default
 ---
 <header>
-  <img src="{{ site.logo | relative_url }}" alt="{{ site.title }}" style="max-height: 20vh;margin:0;">
+  <img src="{{ site.logo | relative_url }}" alt="{{ site.title }}" class="d-block mx-auto m-4" style="max-height: 20vh;margin:0;">
   {%-if site.theme_config.show_description-%}
     <p>{{ site.description }}</p>
   {%-endif-%}

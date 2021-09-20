@@ -20,7 +20,7 @@ layout: home
 {% endfor %}
 
 <!-- Pagination links -->
-<div class="row jusitfy-content-md center pagination">
+<div class="row justify-content-md-center pagination">
   <div class="col-md-auto">
     {% if paginator.previous_page %}
       <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
@@ -35,5 +35,3 @@ layout: home
     {% endif %}
   </div>
 </div>
-
-{%- include foot.html -%}

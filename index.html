@@ -4,17 +4,20 @@ layout: home
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
 <div class="row justify-content-md-center">
-  <div class="col-1 offset-md-7">
+  <div class="col-lg-1">
     <div class="post-meta text-end text-md-start">
       <h4><a href="{{ post.url }}">#</a></h4>
     </div>
   </div>
   <article class="col-md-6">
-    <div class="post-meta"></div>
-
     {{ post.content }}
     <hr>
   </article>
+  <div class="col-1">
+    <p class="post-meta d-none d-lg-block">
+      <time datetime="{{ post.date }}">{{ post.date | date: site.theme_config.date_format }}</time>
+    </p>
+  </div>
 </div>
 
 {% endfor %}

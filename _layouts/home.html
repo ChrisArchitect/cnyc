@@ -1,13 +1,15 @@
 ---
 layout: default
 ---
-<header>
+<header class="row justify-content-md-center">
+  <div class="col-md-8 body-col">
   <img src="{{ site.logo | relative_url }}" alt="{{ site.title }}" class="d-block mx-auto py-3" style="max-height: 20vh;margin:0;">
   {%-if site.theme_config.show_description-%}
     <p>{{ site.description }}</p>
   {%-endif-%}
 
   <!-- twitter follow button? or keep in footer -->
+  </div>
 </header>
 
 {{ content }}

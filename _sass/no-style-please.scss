@@ -31,9 +31,10 @@
     margin: 0;
     min-height: 100%;
     overflow-wrap: break-word;
+    background:radial-gradient(circle at 15.47% 22.44%, #be2254, transparent 83%),radial-gradient(circle at 75.05% 49.45%, #8c224a, transparent 54%),radial-gradient(circle at 71.98% 14.2%, #be2254, transparent 52%),radial-gradient(circle at 43.54% 67.73%, #e8d37f, transparent 59%),radial-gradient(circle at 97.34% 88.38%, #899ec4, transparent 45%),radial-gradient(circle at 64.9% 88.88%, #e2e8e9, transparent 38%),radial-gradient(circle at 50% 50%, #55182f, #55182f 100%);
   }
 
-  body-col {
+  .body-col {
     background-color: white;
   }
   

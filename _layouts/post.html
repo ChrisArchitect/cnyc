@@ -3,7 +3,9 @@ layout: default
 ---
 <header class="row justify-content-md-center">
   <div class="col-md-6">
-    <img src="{{ site.logo | relative_url }}" alt="{{ site.title }} Logo" style="max-height: 15vh;" class="py-3">
+    <a href="{{ "/" | relative_url }}" title="{{ site.theme_config.back_home_text }}">
+      <img src="{{ site.logo | relative_url }}" alt="{{ site.title }} Logo" style="max-height: 15vh;" class="py-3">
+    </a>
   </div>
 </header>
 {%-include back_link.html-%}

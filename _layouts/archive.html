@@ -2,8 +2,21 @@
 layout: default
 ---
 
-{%-include back_link.html-%}
+<header class="row justify-content-md-center">
+    <div class="col-md-6">
+      <a href="{{ "/" | relative_url }}" title="{{ site.theme_config.back_home_text }}">
+        <img src="{{ site.logo | relative_url }}" alt="{{ site.title }} Logo" style="max-height: 15vh;" class="py-3">
+      </a>
+    </div>
+  </header>
+  
+  <div class="row justify-content-md-center">
+    <div class="col-1"></div>
+    <article class="body-col col-md-6 py-3">
 
 <h1>{{ page.title }}</h1>
 
 {%-include post_list.html category=page.which_category-%}
+</article>
+<div class="col-lg-1"></div>
+</div>

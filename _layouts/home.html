@@ -2,13 +2,19 @@
 layout: default
 ---
 <header class="row justify-content-md-center">
-  <div class="col-md-8 body-col">
-  <img src="{{ site.logo | relative_url }}" alt="{{ site.title }}" class="d-block mx-auto py-3" style="max-height: 20vh;margin:0;">
-  {%-if site.theme_config.show_description-%}
-    <p>{{ site.description }}</p>
-  {%-endif-%}
-
-  <!-- twitter follow button? or keep in footer -->
+  <div class="col-md-8 body-col text-center">
+    <img src="{{ site.logo | relative_url }}" alt="{{ site.title }}" class="d-block mx-auto py-3" style="max-height: 20vh;margin:0;">
+  </div>
+  <div class="row justify-content-md-center">
+    <div class="col-md-4 text-center pb-3">
+      {%-if site.theme_config.show_description-%}
+      <p class="text-muted">{{ site.description }}</p>
+      {%-endif-%}
+      <!-- twitter -->
+      <p>
+        <a href="https://twitter.com/cyberdelianyc?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @cyberdelianyc</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+      </p>
+    </div>
   </div>
 </header>
 

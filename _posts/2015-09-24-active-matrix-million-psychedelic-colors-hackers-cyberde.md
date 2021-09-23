@@ -21,4 +21,4 @@ redirect_from: /post/129819920825/active-matrix-million-psychedelic-colors-hacke
 
 ## **_Active matrix, man. A million psychedelic colors.&nbsp;_**
 
-[Cyberdelia stickers](https://www.stickermule.com/marketplace/8538-cyberdelia) are a million psychedelic colors… Actually only about two, but you know they look crispy! Check&nbsp;‘em out
+[Cyberdelia stickers](https://www.ideasystm.com/collections/cyberdelia) are a million psychedelic colors… Actually only about two, but you know they look crispy! Check&nbsp;‘em out

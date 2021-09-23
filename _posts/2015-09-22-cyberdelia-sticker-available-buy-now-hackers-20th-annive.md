@@ -25,4 +25,4 @@ redirect_from: /post/129685544760/cyberdelia-sticker-available-buy-now-hackers-2
 
 Whether just hanging out with your fly RISC laptop or scoring a righteous hack on a Gibson, you gotta represent the ultimate elite hacker cyberpunk destination. Hack the Planet! Celebrating the 20th anniversary of Hackers!
 
-[Check it out here](https://www.stickermule.com/marketplace/8538-cyberdelia) and grab some for yourself - free shipping in the US!
+[Check it out here](https://www.ideasystm.com/collections/cyberdelia) and grab some for yourself - free shipping in the US!

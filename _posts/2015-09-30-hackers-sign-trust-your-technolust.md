@@ -20,4 +20,4 @@ redirect_from: /post/130241287205/hackers-sign-trust-your-technolust
 
 ## Trust &nbsp;your technolust.
 
-(Get a [Cyberdelia sticker](https://www.stickermule.com/marketplace/8538-cyberdelia)&nbsp;to go with your arsenal of&nbsp;‘dialups’, access codes&nbsp;and passwords)
+(Get a [Cyberdelia sticker](https://www.ideasystm.com/collections/cyberdelia)&nbsp;to go with your arsenal of&nbsp;‘dialups’, access codes&nbsp;and passwords)

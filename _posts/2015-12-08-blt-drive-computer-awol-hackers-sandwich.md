@@ -17,4 +17,4 @@ redirect_from: /post/134789340355/blt-drive-computer-awol-hackers-sandwich
 
 [http://imgur.com/0YsSPEe](http://imgur.com/0YsSPEe)
 
-[See also](http://cyberdelianyc.tumblr.com/2021/09/14/2015-10-21-hackers-cia-email-hacked-dade-hacks-tv-station.html)
+[See also](/post/131628279720/hackers-cia-email-hacked-dade-hacks-tv-station)

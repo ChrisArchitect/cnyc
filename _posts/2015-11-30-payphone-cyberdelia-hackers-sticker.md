@@ -18,4 +18,4 @@ redirect_from: /post/134278468470/payphone-cyberdelia-hackers-sticker
 
 ## Spotted in the wild. &nbsp;
 
-[“Okay. Let’s go shopping.”](https://www.stickermule.com/marketplace/8538-cyberdelia)
+[“Okay. Let’s go shopping.”](https://www.ideasystm.com/collections/cyberdelia)

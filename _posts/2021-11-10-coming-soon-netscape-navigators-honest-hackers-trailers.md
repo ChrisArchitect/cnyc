@@ -2,7 +2,7 @@
 layout: post
 title: "Coming Soon: Netscape Navigators"
 image: /images/hackers-honest-trailers-by-screen-junkies-netscape-navigators-title-frame.jpg
-description: Honest Trailers preview coming attractions with their trailer for Hackers.
+description: The following PREVIEW has been approved for ALL AUDIENCES. Hackers - by Honest Trailers.
 tags:
 - hackers
 - hackers movie
@@ -15,13 +15,12 @@ tags:
 - hackers film
 - humor
 ---
-##### The following PREVIEW has been approved for ALL AUDIENCES
+###### The following PREVIEW has been approved for ALL AUDIENCES
 
-## Coming Soon: Netscape Navigators
+## Coming Soon:<br>Netscape Navigators
 
-<p class="text-center">
 <hr data-content="Starring">
-
+<p class="text-center">
 Dade and Confused
 
 28 Point Kate Modem
@@ -46,9 +45,9 @@ and
 
 Hack The Planet!<br>
 Hack The Planet!<br>
-Hack The Planet!
-<hr>
+Hack The Planet!<br>
 </p>
+<hr>
 
 <div class="ratio ratio-16x9 pt-3">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/nzcOqUXXywo" title="Honest Trailers - Hackers, by Screen Junkies." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

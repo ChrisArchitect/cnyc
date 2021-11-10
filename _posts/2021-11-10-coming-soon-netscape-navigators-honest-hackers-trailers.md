@@ -15,30 +15,28 @@ tags:
 - hackers film
 - humor
 ---
-###### The following PREVIEW has been approved for ALL AUDIENCES
-
 ## Coming Soon:<br>Netscape Navigators
 
 <hr data-content="Starring">
 <p class="text-center">
 Dade and Confused
-<br><br>
+<br>
 28 Point Kate Modem
-<br><br>
+<br>
 Retaining Order
-<br><br>
+<br>
 Cereal and Milk
-<br><br>
+<br>
 Earthtwink
-<br><br>
+<br>
 Narc Anthony
-<br><br>
+<br>
 Hypebeast 1.0
-<br><br>
+<br>
 Business in the Front, LAN Party in the Back
-<br><br>
+<br>
 Hi I'm Penn, and this is my partner, Hacker
-<br><br>
+<br>
 Floppy Disks
 <br><br>
 and
@@ -47,9 +45,10 @@ Hack The Planet!<br>
 Hack The Planet!<br>
 Hack The Planet!<br>
 </p>
-<hr>
 
-<div class="ratio ratio-16x9 pt-3">
+#### The following PREVIEW has been approved for ALL AUDIENCES
+
+<div class="ratio ratio-16x9 mt-3">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/nzcOqUXXywo" title="Honest Trailers - Hackers, by Screen Junkies." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 

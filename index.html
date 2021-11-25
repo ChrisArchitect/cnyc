@@ -25,16 +25,17 @@ layout: home
 <!-- Pagination links -->
 <div class="row justify-content-md-center pagination">
   <div class="body-col col-md-8 text-center">
+    <div class="btn-group" role="group">
     {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+      <a href="{{ paginator.previous_page_path }}" type="button" class="btn btn-outline-primary previous">Previous</a>
     {% else %}
-      <span class="previous">Previous</span>
+      
     {% endif %}
-    <span class="page_number "> (Page: {{ paginator.page }} of {{ paginator.total_pages }}) </span>
+    <span type="button" class="btn btn-outline-primary page_number"> (Page: {{ paginator.page }} of {{ paginator.total_pages }}) </span>
     {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+      <a href="{{ paginator.next_page_path }}" type="button" class="btn btn-outline-primary next">Next</a>
     {% else %}
-      <span class="next">Next</span>
+      
     {% endif %}
   </div>
 </div>

@@ -14,6 +14,6 @@ tags:
 - razor and blade
 - elite hacker
 ---
-# For those late night hacks...
+## For those late night hacks...
 
 ![Stickers of illustrated Jolt Cola cans as seen in Hackers on the Razor and Blade show. "The soft drink of the elite hacker". Stickers by evildaemond.](/images/hackers-razor-blade-jolt-cola-stickers-evildaemond-soft-drink-elite-hacker-cyberdelianyc.jpg)

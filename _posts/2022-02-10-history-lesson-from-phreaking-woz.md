@@ -36,5 +36,9 @@ Great interview with Woz by Cybercrime Magazine! Have a listen.
 > Apple’s co-founder takes us to back to 1971
 
 <div class="embed-responsive embed-responsive-16by9" style="max-height:208px;">
-  <iframe class="embed-responsive-item" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1209364192&color=ff5500&hide_related=true&show_comments=false&show_teaser=false" style="max-height:166px;" scrolling="no" frameborder="no" allow="autoplay"></iframe>
+  <iframe class="embed-responsive-item" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1209364192&color=ff5500&hide_related=true&show_comments=false&show_teaser=false" style="max-height:166px;width:100%;" scrolling="no" frameborder="no" allow="autoplay"></iframe>
 </div>
+
+#### And of course
+
+[From Woz to the Phantom Phreak...](/posts/no-no-no-thank-you-captain-crunch)

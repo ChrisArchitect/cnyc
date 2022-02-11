@@ -5,6 +5,7 @@ description: A chat with Steve Wozniak about his early days of being inspired by
 image: /images/hackers-phone-phreaking-blue-box-wozniak-captain-crunch-living-computers-museum-seattle-2017-cyberdelianyc-site.jpg
 tags:
 - hacking
+- hackers
 - phone phreaking
 - phreaking
 - blue boxes
@@ -26,8 +27,8 @@ tags:
 Great interview with Woz by Cybercrime Magazine! Have a listen.
 
 <figure class="figure">
-  <img class="figure-img img-fluid" src="/images/hackers-phone-phreaking-blue-box-wozniak-captain-crunch-living-computers-museum-seattle-2017-cyberdelianyc-site.jpg" alt="">
-  <figcaption class="figure-caption"><strong>Pieces of history:</strong> Replica blue box device like ones designed by Steve Wozniak, and a Cap'n Crunch cereal box whistle from the 1960s used by phone phreaking pioneer John "Captain Crunch" Draper. Seen on display at the Living Computers Museum, Seattle, 2017.</figcaption>
+  <img class="figure-img img-fluid" src="/images/hackers-phone-phreaking-blue-box-wozniak-captain-crunch-living-computers-museum-seattle-2017-cyberdelianyc-site.jpg" alt="Phone phreaking blue box device replica as made by Steve Wozniak and a Cap'n Crunch toy whistle that emitted 2600 hertz for phone hacking by John 'Captain Crunch' Draper. Living Computers Museum, Seattle, 2017, by CyberdeliaNYC.">
+  <figcaption class="figure-caption"><strong>Pieces of phone hacking history:</strong> Replica blue box device like ones designed by Steve Wozniak, and a Cap'n Crunch cereal box whistle from the 1960s used by phone phreaking pioneer John "Captain Crunch" Draper. Seen on display at the Living Computers Museum, Seattle, 2017.</figcaption>
 </figure>
 
 ### [Steve Wozniak Phreaks Out On The History Of Hacking](https://cybersecurityventures.com/steve-wozniak-phreaks-out-on-the-history-of-hacking/)

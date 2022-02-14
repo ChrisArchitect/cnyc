@@ -19,7 +19,7 @@ tags:
 ---
 ## View Source: The Only Crime Is Curiosity
 
-![Joey explores the Gibson in Hackers (a psychedelic trip of equations?)](/images/hackers-joey-exploring-gibson-downloading-garbage-file-psychedelic-equations-cyberdelia-nyc.gif)
+![Joey explores the Gibson in Hackers (a psychedelic trip of equations?)](/images/hackers-joey-exploring-gibson-downloading-garbage-file-psychedelic-equations-HD-cyberdelia-nyc.gif)
 
 Hack the HTML!
 
@@ -29,3 +29,8 @@ Hack the HTML!
 
 [**Missouri governor vows criminal prosecution of reporter who found flaw in state website**](https://missouriindependent.com/2021/10/14/missouri-governor-vows-criminal-prosecution-of-reporter-who-found-flaw-in-state-website/)
 > The St. Louis Post-Dispatch notified a state agency and held its story while a problem that risked exposing the social security numbers of Missouri teachers was fixed
+
+### Update - Feb 2022
+
+[**Missouri governor rebuffed: Journalist won’t be prosecuted for viewing HTML**](https://arstechnica.com/tech-policy/2022/02/missouri-governor-rebuffed-journalist-wont-be-prosecuted-for-viewing-html/)
+> Gov. Parson's claim that viewing HTML is "hacking" fails to sway prosecutor.

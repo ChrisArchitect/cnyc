@@ -20,6 +20,6 @@ tags:
 
 > Dade: You heard of a hacker called Acid Burn? You know who he is?
 
-> Phreak: No, don't know who _he_ is.
+> Phreak: No, don't know who **he** is.
 
 #### Celebrating International Women's Day ;-)

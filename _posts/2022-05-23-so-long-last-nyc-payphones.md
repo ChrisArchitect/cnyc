@@ -27,9 +27,9 @@ Pay phones are being replaced by something like this [LinkNYC](https://www.link.
 
  ![A LinkNYC modern payphone terminal in New York City with features like USB charging port, wifi and digital display screen. This one with a pink image with bold white text 'Give Me Liberty or Give Me Access' as seen in Hackers (1995) movie. A CyberdeliaNYC sticker can also be seen on it.](/images/tumblr_o0rmtxaL111tqzrm7o1_1280.jpg) 
 
- NYC news site Hell Gate has a nice post about the real story on the ground/underground:
+ NYC news site Hell Gate has a nice post about the real story on the ground/underground.
  
- ### [The Death of NYC Pay Phones Has Been Greatly Exaggerated](https://www.hellgatenyc.com/the-death-of-nyc-payphones-lies/)
+ #### [The Death of NYC Pay Phones Has Been Greatly Exaggerated](https://www.hellgatenyc.com/the-death-of-nyc-payphones-lies/)
 
  > Hell Gate placed a call from a pay phone located in the 14th Street subway station, and it sounded fantastic.
 

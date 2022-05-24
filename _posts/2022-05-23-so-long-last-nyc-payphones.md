@@ -29,7 +29,7 @@ Pay phones are being replaced by something like this [LinkNYC](https://www.link.
 
  NYC news site Hell Gate has a nice post about the real story on the ground/underground:
  
- #### [The Death of NYC Pay Phones Has Been Greatly Exaggerated](https://www.hellgatenyc.com/the-death-of-nyc-payphones-lies/)
+ ### [The Death of NYC Pay Phones Has Been Greatly Exaggerated](https://www.hellgatenyc.com/the-death-of-nyc-payphones-lies/)
 
  > Hell Gate placed a call from a pay phone located in the 14th Street subway station, and it sounded fantastic.
 

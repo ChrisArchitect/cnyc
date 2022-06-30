@@ -18,9 +18,9 @@ redirect_from: /post/95287751590/mit-tech-review-hacking-traffic-lights-hackers-
 ---
  ![](/images/tumblr_nam3z1Gdl11tqzrm7o1_500.gif)  
 
-**Hacking Traffic Lights Is Surprisingly Easy** [http://bit.ly/1sSDoBL&nbsp;](http://t.co/VyjufXdoKa "http://bit.ly/1sSDoBL")
+**Hacking Traffic Lights Is Surprisingly Easy** 
 
-> Researchers Hack Into Michigan’s Traffic Lights
+> [Researchers Hack Into Michigan’s Traffic Lights](https://www.technologyreview.com/2014/08/19/171586/researchers-hack-into-michigans-traffic-lights/)
 > 
 > _Security flaws in a system of networked stoplights point to looming problems with an increasingly connected infrastructure._
 > 

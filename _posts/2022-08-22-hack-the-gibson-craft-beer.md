@@ -15,9 +15,9 @@ tags:
 - phantom phreak
 ---
 
-![Fair State Brewing Cooperative's Hack The Gibson Hazy IPA craft beer. Three cans standing together showing the black label with teal and purple global graphics and in the background the 3d glass towers server filesystem representation of the Gibson supercomputer seen in Hackers (1995).](/images/fair-state-brewing-coop-hack-the-gibson-hackers-movie-hazy-ipa-craft-beer-cyberdelianyc-site.jpg)
+![Fair State Brewing Cooperative's Hack The Gibson Hazy IPA craft beer. Three cans standing together showing the black label with teal and purple globe graphics and in the background the 3d glass towers server filesystem representation of the Gibson supercomputer seen in Hackers (1995).](/images/fair-state-brewing-coop-hack-the-gibson-hackers-movie-hazy-ipa-craft-beer-cyberdelianyc-site.jpg)
 
-Jolt Cola for those late night hacking sessions and then maybe one of these when things get a bit more _social_.
+Jolt Cola for those late night hacking sessions and then maybe one of these when things get a bit more _social_. Celebrate those righteous hacks!
 
 ![Animated GIF of scene from Hackers (1995) of characters Phantom Phreak and Dade Murphy walking into a house party breaking a crowd of partygoers gathered and smoking in a hallway. Phreak strutting in between them in a leopard-print shirt and jacket. Dade following behind in bight red vest jacket.](/images/hackers-phantom-phreak-dade-enter-kate-party-cyberdelianyc.gif)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: So Long Last NYC Payphones
-Description: The last payphones in NYC are being removed with a final one from Manhattan going today. To be replaced by LinkNYC terminals. Thanks for all the phreaks.
+description: The last payphones in NYC are being removed with a final one from Manhattan going today. To be replaced by LinkNYC terminals. Thanks for all the phreaks.
 image: /images/tumblr_o0rmtxaL111tqzrm7o1_1280.jpg
 tags:
 - linknyc

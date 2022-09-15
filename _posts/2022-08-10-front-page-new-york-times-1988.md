@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Front Page, New York Times, August 10th 1988
-Description: Zero Cool? Crashed fifteen hundred and seven systems in one day? Biggest crash in history, front page, New York Times, August 10th, 1988. "Wall Street Stocks Take a Plunge As Computer Crash Hits Markets" details Hackers exploits and mention of Zero Cool. A faithful creation.
+description: Zero Cool? Crashed fifteen hundred and seven systems in one day? Biggest crash in history, front page, New York Times, August 10th, 1988. "Wall Street Stocks Take a Plunge As Computer Crash Hits Markets" details Hackers exploits and mention of Zero Cool. A faithful creation.
 image: /images/new-york-times-front-page-1988aug10-wall-street-computer-crash-hackers-cyberdelianyc-preview.jpg
 tags:
 - hackers movie

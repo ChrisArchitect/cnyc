@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hack the Gibson Craft Beer
-Description: A craft beer from Fair State Brewing Cooperative is called Hack The Gibson.
+description: A craft beer from Fair State Brewing Cooperative is called Hack The Gibson.
 image: /images/fair-state-brewing-coop-hack-the-gibson-hackers-movie-hazy-ipa-craft-beer-cyberdelianyc-site.jpg
 tags:
 - hackers

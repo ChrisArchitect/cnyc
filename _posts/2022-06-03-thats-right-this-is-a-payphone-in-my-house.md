@@ -1,7 +1,7 @@
 ---
 layout: post
 title: That's right, this is a payphone, in my house
-Description: Bertrand Fan on his "curious" relationship with payphones on the journey to installing one in his house.
+description: Bertrand Fan on his "curious" relationship with payphones on the journey to installing one in his house.
 image: /images/hackers-razor-blade-pay-phone-phreaking-21crop-1640x820-cyberdelianyc.jpg
 tags:
 - payphone

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Everything, Everything For Your Weekend Soundtrack
-Description: Underworld's live performance album from 2000, Everything, Everything, is perfect Hackers-adjacent soundtrack for the weekend.
+description: Underworld's live performance album from 2000, Everything, Everything, is perfect Hackers-adjacent soundtrack for the weekend.
 image: /images/underworld-live-2000-everything-everything-cd-cover-site.jpg
 tags:
 - underworld

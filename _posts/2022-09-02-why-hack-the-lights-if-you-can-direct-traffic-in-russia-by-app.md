@@ -1,7 +1,7 @@
 ---
 layout: post
 title: why hack the lights if you can direct russian traffic via an app
-Description: Part of ongoing cyber warfare that follows the Russian invasion of Ukraine, Hackers created a traffic nightmare by sending hundreds of Moscow taxi cabs to the same address.
+description: Part of ongoing cyber warfare that follows the Russian invasion of Ukraine, Hackers created a traffic nightmare by sending hundreds of Moscow taxi cabs to the same address.
 image: /images/yandex-taxi-hack-creates-huge-traffic-jam-russia-2022sep02-cybernews-screenshot.jpg
 tags:
 - hackers

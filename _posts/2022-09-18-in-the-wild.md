@@ -22,4 +22,4 @@ tags:
 
 #### Stickers
 
-Til Sep 20 6PM EST use code `TAKE15` for a discount on [stickers](https://www.ideasystm.com/collections/cyberdelia)!
+Til Sep 19 6PM EST use code `TAKE15` for a discount on [stickers](https://www.ideasystm.com/collections/cyberdelia)!

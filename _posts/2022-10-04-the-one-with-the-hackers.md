@@ -30,12 +30,11 @@ A fun mashup of Hackers scenes with the opening theme from _Friends_. Nice job R
 
 One ponders what the episode titles might be....
 
-_The One with the 1,507 Systems_
-_The One with the Pool on the Roof_
-_The One with the Hacking Challenge_
-_The One with the Garbage File_
-_The One with the Place Where I Put That Thing That Time_
-_The One where Hackers of the World Unite_
-_The One with the Heinous Scheme_
-
-etc!
+* _The One with the 1,507 Systems_
+* _The One with the Pool on the Roof_
+* _The One with the Hacking Challenge_
+* _The One with the Garbage File_
+* _The One with the Place Where I Put That Thing That Time_
+* _The One where Hackers of the World Unite_
+* _The One with the Heinous Scheme_
+* etc!

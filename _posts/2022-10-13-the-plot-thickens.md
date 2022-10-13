@@ -36,4 +36,4 @@ Acid Burn, Crash Override, Cereal Killer and Lord Nikon figure out that the next
 <br>
 <br>
 
-[^1]: <p class="h6">Here at Cyberdelia NYC we are slightly skeptical as to the historical accuracy of October 13th due to a few continuity gaffes (Dade's watch and a printout with a different date) but we roll with the accepted timeline.😎</p>
+[^1]: <span class="small">Here at Cyberdelia NYC we are slightly skeptical as to the historical accuracy of October 13th due to a few continuity gaffes (Dade's watch and a printout with a different date) but we roll with the accepted timeline.😎</span>

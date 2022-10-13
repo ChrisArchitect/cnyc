@@ -27,7 +27,7 @@ tags:
 <strong>Information Is Penetration.</strong> <em>There's no speed limit on the information superhighway.</em></figcaption>
 </figure>
 
-#### On this day in history[^1] 
+#### On this day in history[^1]
 
 Acid Burn, Crash Override, Cereal Killer and Lord Nikon figure out that the next part of a heinous scheme will take place tomorrow. A virus will be deployed to capsize Ellingson Mineral oil tankers to cover the tracks of a nefarious worm and blame hackers. Our hacking heroes are going to need some help.
   
@@ -36,4 +36,4 @@ Acid Burn, Crash Override, Cereal Killer and Lord Nikon figure out that the next
 <br>
 <br>
 
-###### [^1]: Here at Cyberdelia NYC we are slightly skeptical as to the historical accuracy of October 13th due to a few continuity gaffes (Dade's watch and a printout with a different date) but we roll with the accepted timeline.😎
+[^1]: <p class="h6">Here at Cyberdelia NYC we are slightly skeptical as to the historical accuracy of October 13th due to a few continuity gaffes (Dade's watch and a printout with a different date) but we roll with the accepted timeline.😎</p>

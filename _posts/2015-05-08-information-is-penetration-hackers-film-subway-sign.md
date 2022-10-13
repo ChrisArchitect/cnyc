@@ -11,7 +11,7 @@ tags:
 - kate libby
 redirect_from: /post/118455709178/information-is-penetration-hackers-film-subway-sign
 ---
- ![](/images/tumblr_no1i1qZMKo1tqzrm7o1_1280.jpg)  
+ ![](/images/hackers-information-is-penetration-acid-burn-are-you-coming-subway-sign-HD-1920x820-cyberdelia-nyc-site.jpg)  
 
 **Information Is Penetration.&nbsp;**
 

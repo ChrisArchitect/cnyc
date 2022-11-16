@@ -14,7 +14,7 @@ image: /images/hackers-snap-0434-dade-mom-taking-over-tv-network.jpg
 "Yeah, mom?"  
 "What are you doing?"  
 "...I'm taking over a TV network."  
-"Finish up, honey, and get to sleep. And _happy birthday._
+"Finish up, honey, and get to sleep. And ***happy birthday.***"
 
 
 ![Opening scene of Hackers: Dade Murphy hunched over, typing on a computer terminal in bedroom, sunglasses on, dim lights.](/images/hackers-snap-0434-dade-mom-taking-over-tv-network.jpg)

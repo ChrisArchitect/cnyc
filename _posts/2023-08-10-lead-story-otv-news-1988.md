@@ -27,4 +27,4 @@ It wasn't only front page of the [New York Times](/posts/front-page-new-york-tim
 <figcaption><b>1,507 systems:</b> got a bit "creative" digging up old footage from the OTV archives.📼 Happy "Zero Cool Day".</figcaption>
 </figure>
 
-<small>For the record too: all the creative direction, the writing, logo and graphics creation, video constuction was done the 'old fashioned way', other than the <em>talking head</em>. Just a little experiment, by no means an endorsement of the technology. An authentic, fan-driven labour of love creation😉</small>
+<p class="text-muted"><small>For the record too: all the creative direction, the writing, logo and graphics creation, video constuction was done the 'old fashioned way', other than the <em>talking head</em>. Just a little experiment, by no means an endorsement of the technology. An authentic, fan-driven labour of love creation😉</small></p>

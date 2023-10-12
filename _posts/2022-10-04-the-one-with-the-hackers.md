@@ -22,10 +22,10 @@ tags:
 <img class="figure-img image-fluid" loading="lazy" src="/images/hackers-friends-opening-title-logo-spoof-1600x900-cyberdelianyc-site.jpg" alt="Spoof of a scene from opening titles of the Friends TV show with title text in white handwritten script capitalized letters HACKERS with yellow red and blue dots between spaced out letters. Background is ornate orange couch in front of a large water fountain and in distance a New York City skyline with illuminated buildings. Photo creation with help of The Word Finder by CyberdeliaNYC.">
 </figure>
 
-A fun mashup of Hackers scenes with the opening theme from _Friends_. Nice job Ryan.
+A fun mashup of Hackers scenes with the opening theme from _Friends_. Nice job [Ryan](https://twitter.com/redteamwrangler/status/1576598676406820864?ref_src=twsrc%5Etfw). 
+_(re-upped/re-framed for posterity)_
 
-<blockquote class="twitter-tweet mb-3" data-partner="tweetdeck"><p lang="en" dir="ltr">Since I delete my tweets, thought I&#39;d revive this precious jewel.<br><br>Hackers with the Friends Theme <a href="https://t.co/m5z2DGBalG">pic.twitter.com/m5z2DGBalG</a></p>&mdash; Ryan &quot;SQLi&quot; O&#39;Horo (@redteamwrangler) <a href="https://twitter.com/redteamwrangler/status/1576598676406820864?ref_src=twsrc%5Etfw">October 2, 2022</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="m-3"><iframe class="embed-responsive-item" style="aspect-ratio: 9/16;height:75vh;" src="https://www.youtube.com/embed/1-EJZRuDhNk" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 
 One ponders what the episode titles might be....

@@ -22,7 +22,7 @@ tags:
 > Are you coming?
 
 <figure class="figure">
-<img src="figure-img img-fluid" loading="lazy" src="/images/hackers-information-is-penetration-acid-burn-are-you-coming-subway-sign-HD-1920x820-cyberdelia-nyc-site.jpg" alt="Scene from Hackers (1995) movie: character Kate Libby/Acid Burn played by Angelina Jolie, backpack in hand, standing in closing subway doors, holding them open, in leather Suzuki red and white motorcycle jacket, gazing/beckoning in the character Dade's direction. 'Are you coming?' she asks. Just out of the shot some pieces of orange and blue paper are taped to the subway wall with large printed text. The orange one says There's no speed limit on the information highway. The blue one: Information is penetration. A Cyberdelia sticker can be seen stuck behind the orange paper.">
+<img class="figure-img img-fluid" loading="lazy" src="/images/hackers-information-is-penetration-acid-burn-are-you-coming-subway-sign-HD-1920x820-cyberdelia-nyc-site.jpg" alt="Scene from Hackers (1995) movie: character Kate Libby/Acid Burn played by Angelina Jolie, backpack in hand, standing in closing subway doors, holding them open, in leather Suzuki red and white motorcycle jacket, gazing/beckoning in the character Dade's direction. 'Are you coming?' she asks. Just out of the shot some pieces of orange and blue paper are taped to the subway wall with large printed text. The orange one says There's no speed limit on the information highway. The blue one: Information is penetration. A Cyberdelia sticker can be seen stuck behind the orange paper.">
 <figcaption class="figure-caption">
 <strong>Information Is Penetration.</strong> <em>There's no speed limit on the information superhighway.</em></figcaption>
 </figure>

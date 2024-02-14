@@ -15,7 +15,7 @@ tags:
 - acid burn
 ---
 
-<figure class="figure">
+<figure class="figure mx-auto d-block">
 <img class="figure-img img-fluid" loading="lazy" src="/images/hackers-dade-kate-swimming-laughing-crash-and-burn-pool-600x256-cyberdelianyc.gif" alt="GIF of scene from Hackers (1995) film. Dade Murphy and Kate Libby, fully clothed, tread water in a swimming pool. Dade looks off into distance then back at Kate, who looks up to realize something and starts laughing and smiling. Dade smiles in satisfaction.">
 </figure>
 

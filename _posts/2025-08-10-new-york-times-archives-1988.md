@@ -25,7 +25,7 @@ tags:
 Thanks to digtization efforts we can check out the coverage in the NYT archive webpages and TimesMachine. Far out! 
 
 <figure class="figure">
-<a href="/www.nytimes.com/1988/08/10/business/wall-street-plunges-computer-crash-hackers.html" title="Link to archived webpage of New York Times article from August 10th 1988"><img class="figure-img img-fluid" loading="lazy" src="/images/new-york-times-archive-webpage-19880810-wall-street-plunges-computer-crash-hackers-cyberdelianyc.jpg" alt="Screenshot of New York Times archives webpage from Wednesday, August 10, 1988. Headline: 'Wall Street Stocks Take a Plunge As Computer Crash Hits Markets'"></a>
+<a href="/www.nytimes.com/1988/08/10/business/wall-street-plunges-computer-crash-hackers.html" title="www.nytimes.com/1988/08/10/business/wall-street-plunges-computer-crash-hackers.html"><img class="figure-img img-fluid" loading="lazy" src="/images/new-york-times-archive-webpage-19880810-wall-street-plunges-computer-crash-hackers-cyberdelianyc.jpg" alt="Screenshot of New York Times archives webpage from Wednesday, August 10, 1988. Headline: 'Wall Street Stocks Take a Plunge As Computer Crash Hits Markets'"></a>
 </figure>
 
 _1,507 systems._ Happy Zero Cool Day.

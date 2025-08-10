@@ -2,7 +2,7 @@
 layout: post
 title: New York Times Archive webpage - August 10th 1988
 description: Zero Cool? Crashed fifteen hundred and seven systems in one day? Biggest crash in history, front page, New York Times, August 10th, 1988. Thanks to the NYT Archives we can see the coverage on a webpage too.
-image: /images/www.nytimes.com/1988/08/10/business/nytarchive-webpage-opengraph.jpg
+image: /www.nytimes.com/1988/08/10/business/nytarchive-webpage-opengraph.jpg
 tags:
 - hackers movie
 - new york times

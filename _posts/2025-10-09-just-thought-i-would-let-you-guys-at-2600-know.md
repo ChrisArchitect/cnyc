@@ -1,7 +1,7 @@
 ---
 layout: post
 title: just thought I would let you guys at 2600 know about this
-description: Unable to find Hackers at their local video rental store a 2600 Magazine reader shares their struggle and suspicions in a letter to the editor of 2600 Magazine.
+description: Unable to find Hackers at their local video rental store a 2600 Magazine reader shares their struggle and suspicions in a letter to the editor.
 image: /images/2600-magazine-hackers-movie-letter-1999-collage-cyberdelianyc-social-preview-site.jpg
 tags: 
 - 2600 Magazine
@@ -35,6 +35,7 @@ tags:
 </figure>
 
 Gone are the days of video store woe (depending on how you look at it). Now we have both a number of rights-protected streaming options and some [hard-copy versions](https://88-films.myshopify.com/products/hackers-4kuhd) available.
+
 
 
 
